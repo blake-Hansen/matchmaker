@@ -1,0 +1,20 @@
+
+#headr {
+    margin: 50px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    margin-top: 25px
+}
+#showUsers {
+    display:flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+#Pink{
+    color:purple;
+    padding: 5px;
+}

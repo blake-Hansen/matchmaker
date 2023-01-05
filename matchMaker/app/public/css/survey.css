@@ -1,0 +1,46 @@
+body {
+    background-color: coral
+}
+
+.flexSurveyButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    background-color: lightgray;
+    height:50px ;
+    width: 800px;
+    border-radius: 5px;
+}
+
+.questionStyles{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.questionStyles:hover{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    padding: 7px;
+    background-color: rgb(104, 96, 96);
+    border-radius: 5px;
+}
+
+.active{
+ background-color:  rgb(104, 96, 96);
+}
+
+.nameadd{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+#imgSize{
+    margin: 50px;
+    height:250px;
+    width:250px;
+}
